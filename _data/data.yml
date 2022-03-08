@@ -48,12 +48,20 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
+      I am resourceful, self-motivated, and results-driven, as evidenced by both
+      my professional experience and my research on BIM in the construction industries.
+      As a BIM in small and big-sized firms, I have always adapted my way of working according to specific needs and project requirements.
+      I am interested in information management, Lean and how they influence the construction indusTools
+      such as the Critical Path Method, Revit, Navisworks, Lean.
+      I love to find streamlined and efficient solutions to problems.
+      I am a firm believer in the value of teamwork and collaboration to attain goals.
+      Because of the continuous improvements of the construction industry continued development is part of my daily objectives.
+      adipiscing elit. You can .
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+      [download this free resume/CV template here]()
 education:
     - degree: BIM and digital built environment 
       university: University of Salford
