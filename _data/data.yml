@@ -16,8 +16,8 @@ sidebar:
     phone: 0044 7526735591
     citizenship:
     website: blog.webjeda.com #do not add http://
-    linkedin: https://www.linkedin.com/in/gian-claudio-scarafini-/
-    xing: 
+    linkedin: www.linkedin.com/in/gian-claudio-scarafini-/
+    xing: alandoe
     github: sharu725
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -29,10 +29,13 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: Italian
+      - idiom: English
         level: Native
 
-      - idiom: English
+      - idiom: French
+        level: Professional
+
+      - idiom: Spanish
         level: Professional
 
     interests:
@@ -55,18 +58,17 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: BIM and digital built environment 
-      university: University of Salford
-      time: 2019 - 2023
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
-        In this MSc, I gained extensive knowledge in the fields of
-        BIM, Lean, and an integrated approach to design and project delivery
-        that will help to deliver a better whole-life value through digital built environments.
-        The MSc provides valuable information to specialize in digital trasformation.
-          - Building Information Modelling Theory and practice
-          - Integrated BIM Projects
-          - Lean Integrated Design
-          - Project and Production Managmenet
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
