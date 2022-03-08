@@ -16,8 +16,8 @@ sidebar:
     phone: 0044 7526735591
     citizenship:
     website: blog.webjeda.com #do not add http://
-    linkedin: www.linkedin.com/in/gian-claudio-scarafini-/
-    xing: alandoe
+    linkedin: https://www.linkedin.com/in/gian-claudio-scarafini-/
+    xing: 
     github: sharu725
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -33,9 +33,6 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
-
-      - idiom: Spanish
         level: Professional
 
     interests:
