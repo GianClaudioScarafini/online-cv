@@ -40,10 +40,10 @@ sidebar:
         link:
 
       - item: Reading
-        link:
+        link: (reading non fiction books)
 
       - item: Cooking
-        link:
+        link: 
 
 career-profile:
     title: Career Profile
@@ -80,20 +80,8 @@ education:
           - Lean Integrated Design
           - Project and Production management.
           - Dissertation    - degree: BIM and digital built environment 
-      university: University of Salford
-      time: 2019 - 2023
-      details: |
-        In this MSc, I gained extensive knowledge in the fields of
-        BIM, Lean, and an integrated approach to design and project delivery
-        that will help to deliver a better whole-life value through digital built environments.
-        The MSc provides valuable information to specialize in digital transformation.
-          - Building Information Modelling Theory and practice
-          - Integrated BIM Projects
-          - Lean Integrated Design
-          - Project and Production management.
-          - Dissertation
     - degree: BSc architecture
-      university: Politecnic of Milan University
+      university: Politecnico of Milan University
       time: 2000 - 2007
       details: |
           - Bullet point
