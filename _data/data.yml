@@ -103,9 +103,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
+    - role: Foster + Partners
       time: 2014 - 2015
-      company: Google, London
+      company: BIM & Design Systems Technician 
       details: |
         I am the key role to both support and produce BIM & Design System Coordination,assisting to produce, organize and maintain projects with proper standards and develop a workflow to optimize time-consuming. Using different tools like Revit, Naviswork, AutoCAD, RhinoDescribe your role here lorem ipsum dolor sit amet, consectetuer
           - Bullet point
@@ -174,17 +174,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Revit
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Dynamo 
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: Naviswork
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Project planning
+        level: 70%
 
       - name: Ruby on Rails
         level: 85%
