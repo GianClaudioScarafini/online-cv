@@ -87,11 +87,12 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Free lancer and consulting 
-      time: 2002 - Present
-      company: Business to  Business
+    - role: BIM Coordinator
+      time: 2021 - Present
+      company: Haworth Tompkins 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        I am the key role to define workflow and best practice in projects.
+
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
@@ -106,11 +107,7 @@ experiences:
       time: 2014 - 2015
       company: Google, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        I am the key role to both support and produce BIM & Design System Coordination,assisting to produce, organize and maintain projects with proper standards and develop a workflow to optimize time-consuming. Using different tools like Revit, Naviswork, AutoCAD, RhinoDescribe your role here lorem ipsum dolor sit amet, consectetuer
           - Bullet point
           - Bullet point
     - role: UI Developer
